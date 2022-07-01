@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1656707061 source:c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\linkedlist.c
+	"LinkedList.h"
+
+1656707043 c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656717573 source:c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Movie.h"
+	"Validaciones.h"
+
+1656712193 c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656712205 source:c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\validaciones.c
+	"Validaciones.h"
+
+1656713605 source:c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\parser.c
+	"Parser.h"
+	"Movie.h"
+
+1656713532 c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656716516 c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\movie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Parser.h"
+
+1656717657 source:c:\users\lucas\desktop\laboratorio i\2do parcial lab i 2022\movie.c
+	"Movie.h"
+	"Validaciones.h"
+
